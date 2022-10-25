@@ -1,4 +1,4 @@
-**Hallo nama saya Cahyo Hidayatullah. Saya membuat ini untuk memenuhi tugas saya.**  
+**Hallo nama saya Aas novitasari. Saya membuat ini untuk memenuhi tugas saya.**  
 
 **Instalasi Python**
 
